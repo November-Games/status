@@ -30,6 +30,9 @@ status-website:
   theme: dark
   baseUrl: /upptime
   customBodyHtml: `<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "617aa6d4c6524f69bbcaf7f28685574b"}'></script><!-- End Cloudflare Web Analytics -->`
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
