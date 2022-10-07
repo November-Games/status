@@ -36,3 +36,6 @@ status-website:
 
 assignees:
   - zuedev
+
+i18n:
+  footer: ""
