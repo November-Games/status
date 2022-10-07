@@ -23,10 +23,10 @@ status-website:
   #   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-  #     - title: Status
-  #       href: /
-  #     - title: GitHub
-  #       href: https://github.com/$OWNER/$REPO
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
   theme: dark
   baseUrl: /upptime
   customBodyHtml: '<!-- Cloudflare Web Analytics --><script defer src=''https://static.cloudflareinsights.com/beacon.min.js'' data-cf-beacon=''{"token": "617aa6d4c6524f69bbcaf7f28685574b"}''></script><!-- End Cloudflare Web Analytics -->'
