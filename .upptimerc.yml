@@ -20,8 +20,8 @@ status-website:
   #   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://novembergames.com/logo.png
   name: Upptime
-    introTitle: "Welcome to our status page!"
-    introMessage: "This page uses **real-time** data from our [GitHub repository](https://github.com/November-Games/upptime). If you are experiencing issues with any of our services, please [open an issue](https://github.com/November-Games/upptime/issues/new?assignees=zuedev&labels=user-report&template=user-report.md&title=) and we will look into it as soon as possible."
+  introTitle: "Welcome to our status page!"
+  introMessage: "This page uses **real-time** data from our [GitHub repository](https://github.com/November-Games/upptime). If you are experiencing issues with any of our services, please [open an issue](https://github.com/November-Games/upptime/issues/new?assignees=zuedev&labels=user-report&template=user-report.md&title=) and we will look into it as soon as possible."
   navbar:
     - title: Status
       href: /
