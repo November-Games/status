@@ -1,6 +1,6 @@
 ---
 name: Schedule Maintenance
-about: x
+about: xyz
 title: ""
 labels: "maintenance"
 assignees: "zuedev"
